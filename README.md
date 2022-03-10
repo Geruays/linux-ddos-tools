@@ -10,4 +10,4 @@ no souce online package
 
   `chmod +x FlexDDOS`
 
-`./FlexDDOS`
+`./FlexDDOS.deb`
