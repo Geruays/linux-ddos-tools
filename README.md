@@ -8,6 +8,6 @@ no souce online package
 
   `cd linux-ddos-tools`
 
-  `chmod +x FlexDDOS`
+  `chmod +x FlexDDOS.deb`
 
 `./FlexDDOS.deb`
